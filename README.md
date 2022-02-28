@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @inzamamsafi
 - 👀 I’m interested in data science
 - 📫 You can reach me at inzamamsafi007@gmail.com
+- My Kaggle profile: https://www.kaggle.com/inzamamsafi
 
 <!---
 inzamamsafi/inzamamsafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
